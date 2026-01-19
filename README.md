@@ -45,7 +45,7 @@ The analysis includes a visualization titled "Bank Customer Prediction", which s
 💻 Tech Stack
 Language: Python
 
-Libraries: Pandas, NumPy, Matplotlib
+Libraries: Pandas, NumPy, Matplotlib,TensorFlow
 
 Environment: Jupyter Notebook
 
